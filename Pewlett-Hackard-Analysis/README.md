@@ -13,5 +13,8 @@ Based on this, there are a lot more employees retiring than are those eligible m
 
 <img width="274" alt="Screen Shot 2021-08-15 at 6 54 56 PM" src="https://user-images.githubusercontent.com/86024512/129495101-41f34f4b-09f7-4317-b966-c0cc9eeeabdd.png">
 
+<img width="869" alt="Screen Shot 2021-08-16 at 3 51 57 PM" src="https://user-images.githubusercontent.com/86024512/129621736-0208eaab-f359-4c97-adb9-475d275dfa9b.png">
+
+
 ## Summary
 In order to avoid a large decrease in employees, PH will need to replace all of the retiring exmployees, approximately 80,000 employees. There are enough qualified, retirement-ready employees in the departments to menor the next generation of PH employees. 
