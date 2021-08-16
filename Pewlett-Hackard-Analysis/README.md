@@ -14,7 +14,4 @@ Based on this, there are a lot more employees retiring than are those eligible m
 <img width="274" alt="Screen Shot 2021-08-15 at 6 54 56 PM" src="https://user-images.githubusercontent.com/86024512/129495101-41f34f4b-09f7-4317-b966-c0cc9eeeabdd.png">
 
 ## Summary
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-In order to avoid a large decrease in employees, PH will need to replace all of the retiring exmployees, approximately 80,000 employees.
-
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? There are enough qualified, retirement-ready employees in the departments to menor the next generation of PH employees. 
+In order to avoid a large decrease in employees, PH will need to replace all of the retiring exmployees, approximately 80,000 employees. There are enough qualified, retirement-ready employees in the departments to menor the next generation of PH employees. 
